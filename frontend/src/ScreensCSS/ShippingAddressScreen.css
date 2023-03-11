@@ -1,0 +1,18 @@
+.shippingAddressScreen {
+    margin: 50px;
+
+}
+
+
+.shippingAddressScreen > input {
+    display: block;
+    padding: 10px;
+    width: 40%;
+    margin: 10px;
+
+}
+
+
+.shippingAddressScreen > button {
+    margin-left: 10px;
+}

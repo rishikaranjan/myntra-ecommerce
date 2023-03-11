@@ -1,0 +1,31 @@
+.dashboardScreen {
+    margin: 20px;
+}
+
+.dashboardScreen__row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.dashboardScreen__col {
+    border: 1px solid lightgray;
+    padding: 20px;
+    margin: 20px;
+    width: 100%;
+}
+
+
+.title {
+    font-weight: 600;
+    font-size: x-large;
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+
+
+.subtitle {
+    font-weight: 600;
+    font-size: large;
+    margin-left: 20px;
+
+}

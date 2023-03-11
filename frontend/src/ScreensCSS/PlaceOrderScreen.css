@@ -1,0 +1,54 @@
+.placeOrderScreen {
+    margin: 50px;
+    display: flex;
+}
+
+
+.placeOrderScreen__left {
+    flex: 0.7;
+}
+
+
+
+.placeOrderScreen__cartItems__details {
+    display: flex;
+    border: 1px solid lightgray;
+    padding: 20px;
+    margin: 10px;
+}
+
+.placeOrderScreen__cartItems__image {
+    max-height: 200px;
+    max-width: 200px;
+}
+
+
+
+
+.placeOrderScreen__right {
+    flex: 0.3;
+
+}
+
+.placeOrderScreen__right > * {
+    margin: 10px;
+}
+
+
+.placeOrderScreen__right__shippingAddress {
+    border: 1px solid lightgray;
+    padding: 30px;
+}
+
+
+.placeOrderScreen__right__paymentMethod {
+    border: 1px solid lightgray;
+    padding: 30px;
+}
+
+
+.placeOrderScreen__right__orderSummary {
+    border: 1px solid lightgray;
+    padding: 30px;
+
+}

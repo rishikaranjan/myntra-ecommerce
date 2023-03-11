@@ -1,0 +1,44 @@
+.productListScreen {
+    margin: 20px;
+
+}
+
+.heading {
+    margin-left: 10%;
+}
+
+
+
+table {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    margin-top: 20px;
+}
+
+th, td {
+    /* border-right: 1px solid lightgray;
+    border-top: 1px solid lightgray; */
+    border: 1px solid lightgray;
+
+    padding: 40px;
+  }
+
+.productListScreen__table__image {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+
+.action__btn > * {
+    margin-bottom: 20px;
+}
+
+/* .heading {
+    padding: 30px;
+} */
+
+
+.btnCreate {
+    margin-left: 10%;
+}

@@ -1,0 +1,7 @@
+.paymentMethodScreen {
+    margin: 50px;
+}
+
+.paymentMethodScreen > div {
+    margin-bottom: 20px;
+}
